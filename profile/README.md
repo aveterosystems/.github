@@ -17,7 +17,7 @@ At Avetero, we design and build intelligent systems that combine embedded hardwa
   Custom hardware and firmware for high-performance sensing and actuation in constrained environments.
 
 - 📡 **Smart Sensing & Environmental Systems**  
-  Intelligent platforms for tracking, environmental monitoring, and foot traffic analysis using smart cameras and sensors.
+  Intelligent platforms for tracking, environmental monitoring using smart cameras and sensors.
 
 - ✈️ **AI-Driven Drones**  
   Autonomous aerial platforms with real-time tracking, navigation, and adaptive mission planning.
