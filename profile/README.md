@@ -8,7 +8,7 @@ Welcome to the official GitHub organisation of **Avetero Systems**, a deep tech 
 
 ## 🚀 What We Do
 
-At Avetero, we design and build intelligent systems that combine embedded hardware and AI to solve real-world problems. Our work includes:
+At Avetero, we design and build intelligent systems that combine embedded hardware and AI to solve real-world problems. Our work aims to include:
 
 - 🧠 **Artificial Intelligence & Machine Learning**  
   Scalable models, real-time inference, and adaptive learning – on-device and in the cloud.
@@ -48,7 +48,7 @@ We're open to partnerships and collaboration with researchers, engineers, startu
 
 ## 📜 Licensing
 
-Most public projects here are shared under open-source licences such as MIT or Apache 2.0. Check individual repositories for details.
+Most public projects here will be shared under open-source licences such as MIT or Apache 2.0. Check individual repositories for details.
 
 ---
 
