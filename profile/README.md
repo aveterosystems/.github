@@ -1,6 +1,6 @@
 # Avetero Systems
 
-**Engineering intelligence into the fabric of the physical world**
+**Building a smarter physical reality**
 
 Welcome to the official GitHub organisation of **Avetero Systems**, a deep tech startup working at the forefront of **embedded smart systems**, **AI**, and **machine learning**. We specialise in developing intelligent, connected technologies that integrate seamlessly with the real world.
 
