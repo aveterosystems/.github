@@ -32,7 +32,7 @@ At Avetero, we design design and build intelligent systems that combine embedded
 - **🛰️ Autonomous Systems** – Software stacks for intelligent flight, navigation, and object tracking.
 - **🧪 Experimental AI Models** – Cutting-edge research in real-time learning, perception, and decision-making.
 
-> We believe in open innovation — where hardware meets AI, and intelligence meets the edge.
+> We believe in serious innovation — where hardware meets AI, and intelligence meets the edge.
 
 ---
 
